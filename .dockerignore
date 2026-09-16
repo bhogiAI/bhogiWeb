@@ -1,0 +1,8 @@
+.git
+.github
+.idea
+*.md
+.gitignore
+.gitattributes
+.dockerignore
+cloudbuild.yaml
